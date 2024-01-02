@@ -1,2 +1,2 @@
 # Amazon.com-Clone
-This my Second HTML and CSS project.
+This my Third HTML and CSS project.
